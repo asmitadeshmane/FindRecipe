@@ -1,0 +1,15 @@
+com\utils\IngredientsNotDefineException.class
+com\model\FridgeItems.class
+com\model\FridgeItemsList.class
+com\utils\Unit.class
+com\utils\FileReadUtilities.class
+com\utils\RecipeFindImpl.class
+com\utils\Constants.class
+com\model\RecipeList.class
+com\action\RecipeHomeAction.class
+com\utils\ItemListNotDefineException.class
+com\model\Recipe.class
+com\utils\RecipeFind.class
+com\utils\RecipeListNotDefineException.class
+com\model\Ingredients.class
+com\action\FindRecipeAction.class
